@@ -1,0 +1,4 @@
+## .gitignore file for EASTL-scaffold
+
+## ignore folder fetched through gclient
+EASTL
